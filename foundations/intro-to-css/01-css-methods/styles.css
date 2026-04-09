@@ -1,0 +1,9 @@
+/* CSS for 01-CSS-Methods */
+
+div {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
